@@ -1,0 +1,15 @@
+/home/kawiri/iseesharp/Laby/laby6/laby6/bin/Debug/net10.0/laby6
+/home/kawiri/iseesharp/Laby/laby6/laby6/bin/Debug/net10.0/laby6.deps.json
+/home/kawiri/iseesharp/Laby/laby6/laby6/bin/Debug/net10.0/laby6.runtimeconfig.json
+/home/kawiri/iseesharp/Laby/laby6/laby6/bin/Debug/net10.0/laby6.dll
+/home/kawiri/iseesharp/Laby/laby6/laby6/bin/Debug/net10.0/laby6.pdb
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.GeneratedMSBuildEditorConfig.editorconfig
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.AssemblyInfoInputs.cache
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.AssemblyInfo.cs
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.csproj.CoreCompileInputs.cache
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.sourcelink.json
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.dll
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/refint/laby6.dll
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.pdb
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/laby6.genruntimeconfig.cache
+/home/kawiri/iseesharp/Laby/laby6/laby6/obj/Debug/net10.0/ref/laby6.dll
